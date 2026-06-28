@@ -18,14 +18,8 @@ Here are some ideas to get you started:
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hello%20World&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
-<div align="center" style="margin:0; padding:0; line-height:0;">
-  <img
-    width="800"
-    height="200"
-    src="https://64.media.tumblr.com/ac63f6c30c236477920a38195976a453/aa3434fb81abf246-91/s400x600/8b03329fcbe44636382a7dd2911e3ce4e221db09.gifv"
-    alt=""
-    style="display:block; margin:0 auto; padding:0; border:0; max-width:100%; height:auto;"
-  />
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://64.media.tumblr.com/1ce729402a229456baff94dae53c1cb4/ce3ee0cbd5a501be-9d/s400x600/0824dc0c58d309d50f1086035bc81e4304ce1d05.gifv"  />
 </div>
 
 ## 👋 About Me
