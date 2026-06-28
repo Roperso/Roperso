@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 <div data-importer="image" align="center">
-  <img data-importer="image" width="100%" alt="Banner" src="https://64.media.tumblr.com/ac63f6c30c236477920a38195976a453/aa3434fb81abf246-91/s400x600/8b03329fcbe44636382a7dd2911e3ce4e221db09.gifv"  />
+  <img data-importer="image" width="800" height="200" src="https://64.media.tumblr.com/ac63f6c30c236477920a38195976a453/aa3434fb81abf246-91/s400x600/8b03329fcbe44636382a7dd2911e3ce4e221db09.gifv"  />
 </div>
 
 ## 👋 About Me
