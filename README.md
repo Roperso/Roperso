@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 ## Recently Played 🎵
 <div data-importer="music" align="center">
   <a href="https://open.spotify.com/user/Ropppuso">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Ropppuso&count=5&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=muhammadawfi60" alt="Spotify recently played"  />
   </a>
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
