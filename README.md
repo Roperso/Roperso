@@ -14,9 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hello%20World&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanRsdjBrd213a2tjMWttdGhjajN0dWYwYmR2azlnNWNyaG0yOXZjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jtDEDcqMjDVODssiEs/giphy.gif"  />
+</div>
 
 ## 👋 About Me
-##### Hi, I'm Awfi Muhammad, an Informatics Engineering student from Indonesia who is passionate about technology and continuous learning.<br><br>I enjoy exploring various fields in computer science, from software development and system design to emerging technologies that solve real-world problems. I believe that every project is an opportunity to improve my technical skills, creativity, and problem-solving abilities.<br><br>I am always eager to learn new tools, collaborate with others, and take on challenges that help me grow as a developer. <br><br>My goal is to become a software engineer who builds scalable, reliable, and impactful applications, while contributing to open-source projects and collaborating with developers around the world.<br><br>Outside of coding, I enjoy creating content, reading manga, watching anime, and discovering new ideas that inspire creativity.<br>
+#### Hi, I'm Awfi Muhammad, an Informatics Engineering student from Indonesia who is passionate about technology and continuous learning.<br><br>I enjoy exploring various fields in computer science, from software development and system design to emerging technologies that solve real-world problems. I believe that every project is an opportunity to improve my technical skills, creativity, and problem-solving abilities.<br><br>I am always eager to learn new tools, collaborate with others, and take on challenges that help me grow as a developer. <br><br>My goal is to become a software engineer who builds scalable, reliable, and impactful applications, while contributing to open-source projects and collaborating with developers around the world.<br><br>Outside of coding, I enjoy creating content, reading manga, watching anime, and discovering new ideas that inspire creativity.<br>
 
 
 ## 🌐 Socials:
@@ -57,9 +64,17 @@ Here are some ideas to get you started:
 </div>
 
 ## 📊 GitHub Stats:
+
+<div align="center">
+
 ![](https://github-readme-stats.shion.dev/api?username=Roperso&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Roperso&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Roperso&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<h3 data-importer="text" align="center">Profile Views</h3>
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://count.getloli.com/@:Roperso?theme=rule34&padding=7&scale=1&align=top&pixelated=1&darkmode=0"  />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Roperso&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -71,10 +86,16 @@ Here are some ideas to get you started:
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AwfiMuhammad) 
 
 
-## Recently Played 🎵
+## 🎵 Music Activity
 <div data-importer="music" align="center">
   <a href="https://open.spotify.com/user/Ropppuso">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=muhammadawfi60" alt="Spotify recently played"  />
   </a>
+</div>
+
+
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
