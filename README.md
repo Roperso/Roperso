@@ -70,5 +70,11 @@ Here are some ideas to get you started:
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AwfiMuhammad) 
 
-  
+
+## Recently Played 🎵
+<div data-importer="music" align="center">
+  <a href="https://open.spotify.com/user/Ropppuso">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Ropppuso&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
