@@ -73,6 +73,8 @@ Here are some ideas to get you started:
 
 <h3 data-importer="text" align="center">Profile Views</h3>
 <div data-importer="profile-views" align="center">
+</div>
+
   <img data-importer="profile-views" src="https://count.getloli.com/@:Roperso?theme=rule34&padding=7&scale=1&align=top&pixelated=1&darkmode=0"  />
 </div>
 
@@ -92,8 +94,6 @@ Here are some ideas to get you started:
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=muhammadawfi60" alt="Spotify recently played"  />
   </a>
 </div>
-
-
 
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
