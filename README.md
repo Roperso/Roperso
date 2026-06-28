@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="440" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanRsdjBrd213a2tjMWttdGhjajN0dWYwYmR2azlnNWNyaG0yOXZjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jtDEDcqMjDVODssiEs/giphy.gif"  />
+  <img data-importer="image" width="100%" alt="Banner" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanRsdjBrd213a2tjMWttdGhjajN0dWYwYmR2azlnNWNyaG0yOXZjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jtDEDcqMjDVODssiEs/giphy.gif"  />
 </div>
 
 ## 👋 About Me
