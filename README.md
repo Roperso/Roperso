@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Roperso&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://komarev.com/ghpvc/?username=Roperso&icon=0&color=1)](https://visitcount.itsvg.in)
+<!-- ---
+[![](https://komarev.com/ghpvc/?username=Roperso&icon=0&color=1)](https://visitcount.itsvg.in) -->
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AwfiMuhammad) 
