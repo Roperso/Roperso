@@ -18,9 +18,7 @@ Here are some ideas to get you started:
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hello%20World&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://64.media.tumblr.com/1ce729402a229456baff94dae53c1cb4/ce3ee0cbd5a501be-9d/s540x810/940d17cc706117775f0d48625a72d53d5d50b98f.gifv"  />
-</div>
+![GIF](https://64.media.tumblr.com/1ce729402a229456baff94dae53c1cb4/ce3ee0cbd5a501be-9d/s400x600/0824dc0c58d309d50f1086035bc81e4304ce1d05.gifv)
 
 ## 👋 About Me
 #### Hi, I'm Awfi Muhammad, an Informatics Engineering student from Indonesia who is passionate about technology and continuous learning.<br><br>I enjoy exploring various fields in computer science, from software development and system design to emerging technologies that solve real-world problems. I believe that every project is an opportunity to improve my technical skills, creativity, and problem-solving abilities.<br><br>I am always eager to learn new tools, collaborate with others, and take on challenges that help me grow as a developer. <br><br>My goal is to become a software engineer who builds scalable, reliable, and impactful applications, while contributing to open-source projects and collaborating with developers around the world.<br><br>Outside of coding, I enjoy creating content, reading manga, watching anime, and discovering new ideas that inspire creativity.<br>
